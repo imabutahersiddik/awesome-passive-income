@@ -55,6 +55,9 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Social Media](#social)
 - [Video](#video)
 
+## EWDA - Earn Without Doing anything.
+### Earn Without Doing anything Websites 
+- [Mintme Free](https://mintme.free.nf) - Earn for being idle online, browsing your desired website or by watching videos from your specific website, Instant payment, No investment, No requiring fee.)
 
 ## Affiliation
 ### Affiliation Platform
